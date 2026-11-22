@@ -1,0 +1,32 @@
+[
+  {
+    "sigla": "RTC / IBS / CBS",
+    "titulo": "Reforma Tributária do Consumo (IBS e CBS)",
+    "resumo": "Substituição gradual de PIS, Cofins, IPI, ICMS e ISS pelo IVA Dual brasileiro: CBS (Contribuição sobre Bens e Serviços, federal) e IBS (Imposto sobre Bens e Serviços, compartilhado entre Estados, DF e Municípios), regidos pela não cumulatividade plena e tributação no destino.",
+    "modulos_relacionados": ["Módulo 1", "Módulo 3", "Módulo 6", "Módulo 7"]
+  },
+  {
+    "sigla": "IS",
+    "titulo": "Imposto Seletivo",
+    "resumo": "Tributo federal de caráter extrafiscal incidente sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente.",
+    "modulos_relacionados": ["Módulo 17"]
+  },
+  {
+    "sigla": "Obrigações Acessórias",
+    "titulo": "Cadastro, Documentos Fiscais, NFS-e e Calculadora RTC",
+    "resumo": "Padronização de cadastros (CNPJ/CPF), adequação de DF-e (NF-e, NFC-e, NFS-e nacional), leiautes com campos de IBS/CBS e Motor Oficial de Cálculo (Calculadora RTC).",
+    "modulos_relacionados": ["Módulo 4", "Módulo 5"]
+  },
+  {
+    "sigla": "Simples / MEI",
+    "titulo": "Simples Nacional e MEI na Reforma Tributária",
+    "resumo": "Manutenção do regime favorecido com possibilidade de opção pelo recolhimento de IBS/CBS por fora (regime regular) para transferência integral de crédito aos adquirentes.",
+    "modulos_relacionados": ["Módulo 8"]
+  },
+  {
+    "sigla": "Regimes Específicos",
+    "titulo": "Regimes Diferenciados e Específicos",
+    "resumo": "Tratamentos específicos para setores como serviços financeiros, agronegócio e cooperativismo, combustíveis e energia elétrica, economia digital, ZFM e regimes diferenciados.",
+    "modulos_relacionados": ["Módulo 9", "Módulo 10", "Módulo 12", "Módulo 13", "Módulo 14", "Módulo 16", "Zona Franca de Manaus (ZFM)"]
+  }
+]

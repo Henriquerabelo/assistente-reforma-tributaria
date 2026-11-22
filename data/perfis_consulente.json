@@ -1,0 +1,23 @@
+[
+  {
+    "id": "contador",
+    "nome": "Contador(a) / Escritório Contábil",
+    "objetivo": "Aplicar corretamente as regras da Reforma Tributária no dia a dia dos clientes, obrigações acessórias, documentos fiscais e transição.",
+    "tom_preferido": "Técnico-prático, objetivo, com foco em legislação (EC 132/2023 e LC 214/2025), documentos fiscais, cadastro e operacionalização.",
+    "modulos_foco": ["Módulo 1", "Módulo 4", "Módulo 5", "Módulo 6", "Módulo 7", "Módulo 8"]
+  },
+  {
+    "id": "consultor_estudante",
+    "nome": "Consultor Tributário / Estudante de Contabilidade",
+    "objetivo": "Compreender a estrutura conceitual da Reforma Tributária do Consumo (IBS, CBS, Imposto Seletivo), regimes específicos e não cumulatividade plena.",
+    "tom_preferido": "Didático e estruturado, conectando conceitos fundamentais aos módulos do treinamento CFC-RFB.",
+    "modulos_foco": ["Módulo 1", "Módulo 3", "Módulo 10", "Módulo 12", "Módulo 14", "Módulo 17"]
+  },
+  {
+    "id": "simples_mei",
+    "nome": "Empresário(a) / Simples Nacional e MEI",
+    "objetivo": "Entender os impactos práticos no Simples Nacional, MEI, emissão de notas fiscais (NF-e/NFS-e) e transferência de créditos.",
+    "tom_preferido": "Acessível, claro e sem juridiquês excessivo, explicando decisões práticas e prazos.",
+    "modulos_foco": ["Módulo 5", "Módulo 8", "Módulo 18"]
+  }
+]
